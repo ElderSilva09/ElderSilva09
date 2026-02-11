@@ -15,4 +15,5 @@ Me Chamo Elder Pereira da Silva, tenho 16 anos, sou natuaral de São Paulo. Esto
 ###### Se até as variáveis precisam ser declaradas porque não me declarar pra você?
 
 
-![EeveeEeveePokemonGIF](https://github.com/user-attachments/assets/6b10b32e-9a91-4af2-84c4-7ab983b249fc)
+![AnimeDanceNarutoDanceGIF](https://github.com/user-attachments/assets/7d5a2bb6-1825-4d4d-a60a-1f3c3967f13f)
+
