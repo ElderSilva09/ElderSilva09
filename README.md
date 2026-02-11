@@ -10,4 +10,6 @@ Me Chamo Elder Pereira da Silva, tenho 16 anos, sou natuaral de São Paulo. Esto
 </picture>
 </div>
 
-## Faça como um programador. Quando tudo está errado e confuso, apague tudo e recomece do zero.
+## Não é a linguagem de programação que define o programador, mas sim sua lógica.😎
+
+###### Se até as variáveis precisam ser declaradas porque não me declarar pra você?
