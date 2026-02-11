@@ -13,3 +13,6 @@ Me Chamo Elder Pereira da Silva, tenho 16 anos, sou natuaral de São Paulo. Esto
 ## Não é a linguagem de programação que define o programador, mas sim sua lógica.😎
 
 ###### Se até as variáveis precisam ser declaradas porque não me declarar pra você?
+
+
+![EeveeEeveePokemonGIF](https://github.com/user-attachments/assets/6b10b32e-9a91-4af2-84c4-7ab983b249fc)
