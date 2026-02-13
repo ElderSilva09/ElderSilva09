@@ -12,6 +12,7 @@ Me Chamo Elder Pereira da Silva, tenho 16 anos, sou natuaral de São Paulo. Esto
 
 ## Não é a linguagem de programação que define o programador, mas sim sua lógica.😎
 
+![Jim2GIF](https://github.com/user-attachments/assets/9feff59b-e073-4d97-b5fc-c55005b4130c)
 
 
 
