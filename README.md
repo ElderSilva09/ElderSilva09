@@ -11,5 +11,5 @@ Me Chamo Elder Pereira da Silva, tenho 16 anos, sou natuaral de São Paulo. Esto
 
 ## Não é a linguagem de programação que define o programador, mas sim sua lógica.😎
 
-## Ser programador é aprender todos os dias, não existe uma linha de chegada.🤖
+## Ser programador é aprender todos os dias, não existe uma linha de chegada.
 
