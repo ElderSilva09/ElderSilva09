@@ -1,4 +1,4 @@
-Me Chamo Elder Pereira da Silva, tenho 16 anos, sou natuaral de São Paulo. Estou cursando o Ensino Médio no SESI A.E Carvalho fazendo Curso Técnico de Análise e Desenvolvimento de Sistemas no SENAI Conde José de Azevedo. Gosto de desenvolver projetos na área de tecnologia e robótica.  
+Me Chamo Elder Pereira da Silva, tenho 16 anos, sou natural de São Paulo. Estou cursando o Ensino Médio no SESI A.E Carvalho fazendo Curso Técnico de Análise e Desenvolvimento de Sistemas no SENAI Conde José de Azevedo. Gosto de desenvolver projetos na área de tecnologia e robótica.  
 ### ✝️🤖👨🏻‍💻🏎️
 
 <div align="center">
